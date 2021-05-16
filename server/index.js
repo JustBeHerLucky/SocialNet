@@ -34,7 +34,7 @@ const chatRouter = require('./routes/chat');
 
 dotenv.config()
 
-const mongoURI = "mongodb+srv://daimon11:ccogitoergo@server-md8pm.mongodb.net/test?retryWrites=true&w=majority";
+const mongoURI = "mongodb+srv://NGTruong:NGTruong0110@server-md8pm.mongodb.net/test?retryWrites=true&w=majority";
 
 // Connect to DB
 mongoose.connect(

@@ -8,8 +8,7 @@ const SettingsDropdown = props => {
              <div className={classes.title}>
                 Settings
             </div>
-            <a href="https://github.com/JustBeHerLucky">Github</a>
-            <a href="https://github.com/JustBeHerLucky">Support</a>
+            
             <a href="/auth" onClick={props.onLogout}>Log out</a>
         </div>
     )
